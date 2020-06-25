@@ -1,5 +1,3 @@
-# todo-list
+# todo-list - jQuery Web App Basis
 
-This is a little todo app done with jQuery.
-
-The code is mainly from Colt Steeles Webdeveloper Bootcamp Course
+Project I had build in Colt Steele's "Web Developer Bootcamp Course" - using jQuery.
