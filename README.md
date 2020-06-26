@@ -1,3 +1,3 @@
-# todo-list - jQuery Web App Basis
+# todo-list - jQuery project exercise
 
-Project I had build in Colt Steele's "Web Developer Bootcamp Course" - using jQuery.
+Project Exercise for Colt Steele's "Web Developer Bootcamp Course" - using jQuery.
